@@ -20,8 +20,8 @@ text: The actual body of the review.
 ## Data Cleaning and Preprocessing
 The dataset originally contained 3,600,000 rows in the train.csv file.
 After cleaning (removing missing values and invalid entries), the number of rows was reduced to 3,599,939, showing a minimal number of rows were removed during cleaning.
-Sentiment Distribution
-## The sentiment distribution in the dataset is nearly balanced, with:
+## Sentiment Distribution
+The sentiment distribution in the dataset is nearly balanced, with:
 1,799,969 negative reviews (polarity = 1).
 1,799,970 positive reviews (polarity = 2).
 ## Average Review Length by Sentiment
